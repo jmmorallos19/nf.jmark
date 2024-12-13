@@ -1,0 +1,50 @@
+.seventh-container{
+    width: 100%;
+    height: 45vh;
+    margin-top: 8px;
+    background: #000;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100%;
+}
+
+
+.div-2 > .div-3{
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.div-2 .div-3 > a{
+    color: rgb(192, 188, 188);
+    display:block;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.div-2 .div-3 > p{
+    margin-top: 40px;
+    color: rgb(192, 188, 188);
+}
+
+.div-4 > .div-5{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.div-5 a{
+    color: rgb(192, 188, 188);
+    display:block;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    text-align: left;  
+}
